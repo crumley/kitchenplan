@@ -16,13 +16,19 @@ attributes:
     homebrewalt:
         apps:
             - git
+            - maven
+            - httpie
         cask_apps:
             - google-chrome
             - firefox
+            - adium
             - java
+            - java7
             - divvy
             - jumpcut
+            - gfxcardstatus
             - iterm2
+            - vlc
         cask_fonts:   
             - inconsolata
     nodejs:
