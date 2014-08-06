@@ -18,17 +18,25 @@ attributes:
             - git
             - maven
             - httpie
+            - osxfuse
+            - sshfs
+            - ack
         cask_apps:
             - google-chrome
             - firefox
             - adium
+            - skype
             - java
+            - java6
             - java7
             - divvy
             - jumpcut
             - gfxcardstatus
             - iterm2
             - vlc
+            - jing
+            - deluge
+            - gimp-lisanet
         cask_fonts:   
             - inconsolata
     nodejs:
