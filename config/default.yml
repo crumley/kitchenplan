@@ -16,11 +16,14 @@ attributes:
     homebrewalt:
         apps:
             - git
+            - git-extras
             - maven
             - httpie
             - osxfuse
             - sshfs
             - ack
+            - wget
+            - python3
         cask_apps:
             - google-chrome
             - firefox
@@ -32,11 +35,31 @@ attributes:
             - divvy
             - jumpcut
             - gfxcardstatus
+            - istat-menus
             - iterm2
             - vlc
             - jing
             - deluge
             - gimp-lisanet
+            - devonthink-pro-office
+            - r
+            - rstudio
+            - slack
+            - macvim
+            - onepassword
+            - dropbox
+            - google-drive
+            - evernote
+            - istat-menus
+            - alfred
+            - spotify
+            - virtualbox 
+            - vagrant
+            - sonos
+            - secrets
+            - launchrocket
+            - istumbler
+            - visualvm
         cask_fonts:   
             - inconsolata
     nodejs:
