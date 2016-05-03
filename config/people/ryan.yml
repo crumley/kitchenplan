@@ -93,6 +93,7 @@ attributes:
     mysql_root_password: "password"
     homebrewalt:
         apps:
+            - tmux
             - powerline
             - coreutils
             - autojump
@@ -123,6 +124,9 @@ attributes:
             - uchardet
             - graphviz
         cask_apps:
+            - zeplin
+            - grandperspective
+            - qlstephen
             - github-desktop
             - sourcetree
             - chefdk
