@@ -80,7 +80,7 @@ attributes:
                 - nerdtree: https://github.com/scrooloose/nerdtree.git
                 - vim-css-color: https://github.com/ap/vim-css-color
     git:
-        name: Ryan Crumley	
+        name: Ryan Crumley
         email: crumley@gmail.com
     osxdefaults:
         computername: uji
@@ -124,6 +124,7 @@ attributes:
             - uchardet
             - graphviz
         cask_apps:
+            - hammerspoon
             - zeplin
             - grandperspective
             - qlstephen
@@ -161,7 +162,7 @@ attributes:
             - istat-menus
             - alfred
             - spotify
-            - virtualbox 
+            - virtualbox
             - vagrant
             - sonos
             - secrets
@@ -175,7 +176,7 @@ attributes:
             - 0xed
             - calibre
             - eclipse-ide
-        cask_fonts:   
+        cask_fonts:
             - inconsolata
     nodejs:
         apps:
